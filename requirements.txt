@@ -4,6 +4,7 @@ transformers
 urllib3
 streamlit==0.89.0
 torch==1.8.1
+torchvision==0.9.1
 opencv-python-headless==4.5.3.56
 matplotlib==3.4.3
 timm==0.4.12
