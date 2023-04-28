@@ -2,7 +2,6 @@ torch
 torchvision
 numpy
 opencv-python
-urllib.request
+urllib3
 matplotlib.pyplot
 streamlit
-numpy
