@@ -1,4 +1,5 @@
 torch
+torchvision
 numpy
 cv2
 urllib.request
