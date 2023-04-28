@@ -3,5 +3,5 @@ torchvision
 numpy
 opencv-python
 urllib3
-matplotlib.pyplot
+matplotlib
 streamlit
