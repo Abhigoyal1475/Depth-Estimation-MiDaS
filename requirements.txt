@@ -1,0 +1,7 @@
+torch
+numpy
+cv2
+urllib.request
+matplotlib.pyplot
+streamlit
+numpy
