@@ -17,7 +17,9 @@ Autonomous Navigation: MiDaS can help autonomous vehicles navigate by providing 
 Virtual Reality: MiDaS can be used to create realistic virtual reality environments by providing accurate depth information about the scene.
 Augmented Reality: By estimating depth in real-time, MiDaS can be used to overlay virtual objects onto the real world with greater accuracy and realism.
 
-# Real-Time Performance Optimization: While the MiDaS model already runs in real-time, further optimization can be done to improve the speed and efficiency of the depth estimation process.
+# Real-Time Performance Optimization: 
+While the MiDaS model already runs in real-time, further optimization can be done to improve the speed and efficiency of the depth estimation process.
+
 Improved Accuracy: The MiDaS model can be further trained and refined to improve the accuracy of depth estimation in different environments and scenarios.
 Integration with Other Models: MiDaS can be integrated with other deep learning models to improve the accuracy and performance of various computer vision tasks such as object detection, segmentation, and tracking.
 Deployment on Mobile Devices: With further optimization, the MiDaS model can be deployed on mobile devices, opening up new possibilities for applications such as augmented reality and autonomous navigation.
