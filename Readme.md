@@ -11,16 +11,16 @@ The project aims to estimate the depth of a scene captured by a single camera in
 # Uses of MiDaS
 The MiDaS project has several applications and use cases, including:
 
-3D Reconstruction: MiDaS can be used to create 3D models of real-world scenes by estimating the depth of each pixel in an image or video.
-Object Detection and Segmentation: By using MiDaS to estimate depth, object detection and segmentation algorithms can more accurately identify and classify objects in a scene.
-Autonomous Navigation: MiDaS can help autonomous vehicles navigate by providing real-time depth information about the environment around them.
-Virtual Reality: MiDaS can be used to create realistic virtual reality environments by providing accurate depth information about the scene.
-Augmented Reality: By estimating depth in real-time, MiDaS can be used to overlay virtual objects onto the real world with greater accuracy and realism.
+1. 3D Reconstruction: MiDaS can be used to create 3D models of real-world scenes by estimating the depth of each pixel in an image or video.
+2. Object Detection and Segmentation: By using MiDaS to estimate depth, object detection and segmentation algorithms can more accurately identify and classify objects in a scene.
+3. Autonomous Navigation: MiDaS can help autonomous vehicles navigate by providing real-time depth information about the environment around them.
+4. Virtual Reality: MiDaS can be used to create realistic virtual reality environments by providing accurate depth information about the scene.
+5. Augmented Reality: By estimating depth in real-time, MiDaS can be used to overlay virtual objects onto the real world with greater accuracy and realism.
 
 # Real-Time Performance Optimization: 
 While the MiDaS model already runs in real-time, further optimization can be done to improve the speed and efficiency of the depth estimation process.
 
-Improved Accuracy: The MiDaS model can be further trained and refined to improve the accuracy of depth estimation in different environments and scenarios.
-Integration with Other Models: MiDaS can be integrated with other deep learning models to improve the accuracy and performance of various computer vision tasks such as object detection, segmentation, and tracking.
-Deployment on Mobile Devices: With further optimization, the MiDaS model can be deployed on mobile devices, opening up new possibilities for applications such as augmented reality and autonomous navigation.
-Exploration of Other Modalities: While MiDaS works with RGB images, exploring other modalities such as depth sensors or multispectral cameras can open up new possibilities for depth estimation in different environments and scenarios.
+1. Improved Accuracy: The MiDaS model can be further trained and refined to improve the accuracy of depth estimation in different environments and scenarios.
+2. Integration with Other Models: MiDaS can be integrated with other deep learning models to improve the accuracy and performance of various computer vision tasks such as object detection, segmentation, and tracking.
+3. Deployment on Mobile Devices: With further optimization, the MiDaS model can be deployed on mobile devices, opening up new possibilities for applications such as augmented reality and autonomous navigation.
+4. Exploration of Other Modalities: While MiDaS works with RGB images, exploring other modalities such as depth sensors or multispectral cameras can open up new possibilities for depth estimation in different environments and scenarios.
